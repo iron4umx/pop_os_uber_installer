@@ -1,0 +1,10 @@
+{
+  // Ejemplo de plan generado por plan.sh (stub inicial).
+  "target_disk": "",
+  "scenario": "",
+  "features": {},
+  "sizes": {},
+  "existing_os": {},
+  "esp": "",
+  "subvols": []
+}
