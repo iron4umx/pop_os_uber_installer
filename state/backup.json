@@ -1,0 +1,7 @@
+{
+  // Ejemplo de manifiesto de backup (stub inicial).
+  "target": "",
+  "items": [],
+  "total_bytes": 0,
+  "hashes": false
+}
