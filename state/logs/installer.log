@@ -1,0 +1,3 @@
+# Log del instalador, incluye etapa, comando, exitcode, fecha/hora.
+
+# TODO: Implementar logging desde util.sh.
